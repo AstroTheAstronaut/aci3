@@ -3,9 +3,9 @@
 <h2>How to install?</h2>
 <p>Ez, just copy paste the contents of the files.</p>
 <p> Contents:</p>
-*i3 config file
-* Polybar config and launch
-* .Xresources
+- i3 config file<br>
+- Polybar config and launch<br>
+- .Xresources<br>
 <h2>Incoming:</h2>
-* Dunst
-* If you want, ufetch
+- Dunst<br>
+- If you want, ufetch<br>
