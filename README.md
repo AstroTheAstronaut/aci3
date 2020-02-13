@@ -9,3 +9,5 @@
 <h2>Incoming:</h2>
 - Dunst<br>
 - If you want, ufetch<br>
+<h2> Screenshot:</h2>
+![alt text](https://raw.githubusercontent.com/AstroTheAstronaut/aci3/master/2020-02-13-165017_1366x768_scrot.png)
