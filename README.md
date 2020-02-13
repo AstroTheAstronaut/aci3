@@ -10,5 +10,7 @@
 - Dunst<br>
 - If you want, ufetch<br>
 <h2> Screenshot:</h2>
+<p align="center">
 <img scr="https://raw.githubusercontent.com/AstroTheAstronaut/aci3/master/2020-02-13-165017_1366x768_scrot.png">
+  </p>
 <p>Whatever, the pic doesn't work. Ping me on discord if u have any ideas why.</p>
